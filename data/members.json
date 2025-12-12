@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "name": "Eshaan",
+    "dob": "2000-05-15",
+    "role": "Creative Director",
+    "about": "The visionary behind EDTA's aesthetic. Eshaan combines a background in classical art with a passion for cyberpunk futurism. Always chasing the perfect gradient and the glitchiest transition.",
+    "image": "https://picsum.photos/400/400?random=1",
+    "instagram": "https://instagram.com/eshaan",
+    "password": "password",
+    "projects": [
+      {
+        "title": "Neon Genesis Rebranding",
+        "description": "Complete visual identity overhaul for a major tech conglomerate, focusing on retro-futuristic aesthetics.",
+        "link": "#"
+      },
+      {
+        "title": "Cyberpunk 2099 UI Kit",
+        "description": "A comprehensive user interface design system for next-generation immersive applications.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Dishnu",
+    "dob": "2002-08-20",
+    "role": "Lead Developer",
+    "about": "Dishnu speaks in code and dreams in binary. He architected the core framework that powers our interactive experiences. When not coding, he's probably debugging reality.",
+    "image": "https://picsum.photos/400/400?random=2",
+    "instagram": "https://instagram.com/dishnu",
+    "password": "password",
+    "projects": [
+      {
+        "title": "EDTA Core Engine",
+        "description": "The proprietary WebGL and React framework driving our high-performance interactive sites.",
+        "link": "#"
+      },
+      {
+        "title": "Quantum Motion Lib",
+        "description": "Open-source library optimizing complex physics simulations for the web.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Thamju",
+    "dob": "1999-11-10",
+    "role": "Sound Engineer",
+    "about": "Thamju ensures that EDTA doesn't just look good, but sounds immersive. Master of synths and ambient soundscapes, he brings the static to life.",
+    "image": "https://picsum.photos/400/400?random=3",
+    "instagram": "https://instagram.com/thamju",
+    "password": "password",
+    "projects": [
+      {
+        "title": "Void Echoes EP",
+        "description": "An ambient soundscape album designed for immersive digital installations.",
+        "link": "#"
+      },
+      {
+        "title": "Sonic Branding for Startups",
+        "description": "Developing unique audio identities for emerging unicorns in the fintech space.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Akshay",
+    "dob": "2001-03-25",
+    "role": "3D Artist",
+    "about": "Sculpting digital clay into neon-drenched masterpieces. Akshay's work bridges the gap between the uncanny valley and hyper-reality.",
+    "image": "https://picsum.photos/400/400?random=4",
+    "instagram": "https://instagram.com/akshay",
+    "password": "password",
+    "projects": [
+      {
+        "title": "Virtual Luxury Showroom",
+        "description": "Interactive 3D environment allowing users to explore high-end automotive designs.",
+        "link": "#"
+      },
+      {
+        "title": "Character Series: Z-01",
+        "description": "Hyper-realistic character models created for AAA game cinematics.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Abhiram",
+    "dob": "2003-12-05",
+    "role": "Motion Designer",
+    "about": "If it moves, Abhiram animated it. Bringing kinetic energy to static layouts, he specializes in high-frame-rate fluidity and impact.",
+    "image": "https://picsum.photos/400/400?random=5",
+    "instagram": "https://instagram.com/abhiram",
+    "password": "password",
+    "projects": [
+      {
+        "title": "Velocity Kinetic Type",
+        "description": "Award-winning typography animation series exploring speed and perception.",
+        "link": "#"
+      },
+      {
+        "title": "Sports Channel Intro",
+        "description": "High-energy motion graphics package for a global sports broadcasting network.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Adhithia",
+    "dob": "2000-07-30",
+    "role": "Systems Architect",
+    "about": "Adhithia builds the fortress around our data. A cybersecurity expert who sees patterns in the chaos, ensuring our digital frontiers remain secure.",
+    "image": "https://picsum.photos/400/400?random=6",
+    "instagram": "https://instagram.com/adhithia",
+    "password": "password",
+    "projects": [
+      {
+        "title": "Zero Trust Protocol",
+        "description": "Implementation of advanced security architecture for enterprise-grade distributed systems.",
+        "link": "#"
+      },
+      {
+        "title": "SecureCloud Infrastructure",
+        "description": "Cloud-native deployment strategies focusing on resilience and automated threat detection.",
+        "link": "#"
+      }
+    ]
+  }
+]
