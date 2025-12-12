@@ -5,7 +5,12 @@ import path from "path";
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+  origin: "*",
+  methods: ["GET", "POST"],
+  allowedHeaders: ["Content-Type"],
+}));
+
 app.use(express.json());
 
 const dataPath = path.join(process.cwd(), "data", "members.json");
